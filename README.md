@@ -4,7 +4,7 @@
 
 A free, community-focused timer tool designed specifically for the Blossom Craft community.
 
----
+
 
 ✨ **Features**
 
@@ -20,15 +20,16 @@ A free, community-focused timer tool designed specifically for the Blossom Craft
 - 📌 Always-on-top window keeps the notifier visible  
 - 👌 Simple, user-friendly interface  
 
----
+
 
 💾 **Installation**
 
-- Download the latest Windows executable (.exe) from the official source.  
+- Download the latest Windows executable (.exe) from the official source:  
+  [https://github.com/MrTolska/BlossomCraft](https://github.com/MrTolska/BlossomCraft)  
 - No additional setup or dependencies needed.  
-- Run the .exe file to launch the notifier.  
+- Run the `.exe` file to launch the notifier.  
 
----
+
 
 🚀 **Usage**
 
@@ -39,19 +40,19 @@ A free, community-focused timer tool designed specifically for the Blossom Craft
 - View recent timer events and right-click count in the History tab.  
 - Switch between light and dark themes for comfort.  
 
----
+
 
 🛠️ **Support and Updates**
 
 - Check the official page for new versions and announcements.  
 - For support or feature requests, contact **RSBAMM** on Discord: `Tolska.` (With The Dot)
 
----
+
 
 ⚠️ **Disclaimer**  
 This tool is a community project and is **not affiliated with, endorsed, or sponsored by Blossom Craft or its developers**. It is provided free of charge. If you have been asked to pay for it, please report the scammer.
 
----
+
 
 © 2025 **RSBAMM**. All rights reserved.
 
