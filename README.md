@@ -44,7 +44,7 @@ A free, community-focused timer tool designed specifically for the Blossom Craft
 🛠️ **Support and Updates**
 
 - Check the official page for new versions and announcements.  
-- For support or feature requests, contact **RSBAMM** on Discord: `Tolska#1234`  
+- For support or feature requests, contact **RSBAMM** on Discord: `Tolska.` (With The Dot)
 
 ---
 
